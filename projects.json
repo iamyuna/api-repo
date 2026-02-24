@@ -6,10 +6,12 @@
     "image": "/images/portfolio_front.jpg",
     "link": "https://iamyuna.github.io/",
     "skills":[
-        "next",
-        "react", 
-        "typescript", 
-        "tailwind"
+        "Next",
+        "React", 
+        "Typescript", 
+        "Axios",
+        "RESTful API",
+        "Tailwind"
     ],
     "code": "https://github.com/iamyuna/front_portfolio"
   },
@@ -20,10 +22,10 @@
     "image": "/images/portfolio_accountapp.jpg",
     "link": "https://iamyuna.github.io/accountapp",
     "skills":[
-        "react",
-        "zustand",
-        "localstorage",
-        "tailwind"
+        "React",
+        "Zustand",
+        "Localstorage",
+        "Tailwind"
     ],
     "code": "https://github.com/iamyuna/accountapp"
   },
@@ -34,10 +36,10 @@
     "image": "/images/portfolio_classlink.jpg",
     "link": "https://www.classlink.co.kr/",
     "skills":[
-        "react",
-        "storybook",
-        "redux",
-        "styled-components"
+        "React",
+        "Storybook",
+        "Redux",
+        "Styled-Components"
     ]
   },
   {
@@ -47,9 +49,9 @@
     "image": "/images/portfolio_classpingpong.jpg",
     "link": "https://www.clpong.co.kr/",
     "skills":[
-        "html",
+        "Html",
         "css",
-        "javascript"
+        "Javascript"
     ]
   },
   {
@@ -59,10 +61,10 @@
     "image": "/images/portfolio_gooroomee.jpg",
     "link": "https://biz.gooroomee.com/",
     "skills":[
-        "html",
-        "css",
-        "jQuery",
-        "swiper.js"
+        "Html",
+        "Css",
+        "JQuery",
+        "Swiper.js"
     ]
   },
   {
@@ -72,10 +74,10 @@
     "image": "/images/portfolio_kudos.jpg",
     "link": "http://kudosventures.co.kr/",
     "skills":[
-        "html",
-        "css",
-        "jQuery",
-        "gsap"
+        "Html",
+        "Css",
+        "JQuery",
+        "Gsap"
     ]
   },
   {
@@ -85,10 +87,10 @@
     "image": "/images/portfolio_attoplex.jpg",
     "link": "http://attoplex.co.kr/",
     "skills":[
-        "html",
-        "css",
-        "jQuery",
-        "swiper.js"
+        "Html",
+        "Css",
+        "JQuery",
+        "Swiper.js"
     ]
   },
   {
@@ -98,10 +100,10 @@
     "image": "/images/portfolio_isu.jpg",
     "link": "https://www.workup.plus/",
     "skills":[
-        "html",
-        "css",
-        "jQuery",
-        "swiper.js"
+        "Html",
+        "Css",
+        "JQuery",
+        "Swiper.js"
     ]
   },
   {
@@ -111,9 +113,9 @@
     "image": "/images/portfolio_web.jpg",
     "link": "https://iamyuna.github.io/2023_portfolio",
     "skills":[
-        "html",
-        "scss",
-        "jQuery"
+        "Html",
+        "Css",
+        "JQuery"
     ],
     "code": "https://github.com/iamyuna/2023_portfolio"
   }
